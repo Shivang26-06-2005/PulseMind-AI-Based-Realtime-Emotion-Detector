@@ -4,3 +4,4 @@ Prosody-Sound Features detection like Pitch,Tone,Stress
 Pulse Mind-Alternative Video Based Emotion Detector
 Fusion-Code which runs in realtime and provides insight via fused outputs via ChatBot-Bert Mini for 4 layers:Positivity,Engagement,Nervousness,Confidence
 BodyGesture-Realtime Body Gesture Detection for facial region,hands and shoulder region
+USE BodyLanguage 1/2 and Final Fuse 1/1.1 for better results for realtime detection

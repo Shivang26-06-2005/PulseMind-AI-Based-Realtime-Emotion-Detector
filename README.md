@@ -8,3 +8,5 @@ The project uses a fused output for 7 different categories of emotions which inc
 This project also contains a body gesture detection for face movements which can be integrated in future for more advance results.
 Built for accuracy and adaptability, it can be integrated into diverse applications—mental health support, customer experience optimization, education, workplace wellness, or human-computer interaction. The system bridges the gap between human feelings and technology, enabling more empathetic, personalized, and meaningful interactions.
 
+The Datasets used are FER-Facial Emotion Recognition 2013,TESS Toronto emotional speech set,MELD Multimodal EmotionLines Dataset(MELD),COEPD College Oral English Pronunciation Dataset 
+
